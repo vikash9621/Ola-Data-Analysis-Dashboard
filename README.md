@@ -14,3 +14,7 @@ As a data analyst at Ola, the primary objective is to drive data-informed decisi
  8. Ride Distance Distribution Per Day
  9. Driver Ratings Distribution
  10. Customer vs. Driver Ratings
+
+
+## Dataset used
+- <a href="https://github.com/vikash9621/Ola-Data-Analysis-Dashboard/blob/main/Ola%20booking%20data%20-%20Copy.xlsx">Ola Datast</a>
