@@ -17,4 +17,4 @@ As a data analyst at Ola, the primary objective is to drive data-informed decisi
 
 
 ## Dataset used
-- <a href="https://github.com/vikash9621/Ola-Data-Analysis-Dashboard/blob/main/Ola%20booking%20data%20-%20Copy.xlsx">Ola Datast</a>
+- <a href="https://github.com/vikash9621/Ola-Data-Analysis-Dashboard/blob/main/Ola%20booking%20data%20-%20Copy.xlsx">Ola Dataset</a>
