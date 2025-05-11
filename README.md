@@ -1,2 +1,4 @@
-# Ola-Data-Analysis-Dashboard
-I develop a comprehensive project in power BI, creating a dashboards and tables to analyze the ola data. This process involved several stages, including data preprocessing, data cleaning, and data visualization 
+# Ola-Data-Analysis (Interactive dashboard creation using Power BI)
+
+##Objective
+As a data analyst at Ola, the primary objective is to drive data-informed decisions that enhance operational efficiency, customer satisfaction, and revenue growth. This involves tracking ride demand trends over time to optimize driver deployment and analyzing booking statuses to reduce cancellations. By identifying top-performing vehicle types based on ride distance and monitoring customer satisfaction by vehicle category, the analyst can support fleet and service improvements. Understanding the reasons behind ride cancellations helps in improving reliability, while tracking revenue by payment method informs strategic partnerships and payment options. Recognizing high-value customers enables targeted loyalty initiatives. Additionally, analyzing daily ride distance patterns aids in refining pricing and logistics. Evaluating driver performance across vehicle types ensures consistent service quality, and comparing customer and driver ratings helps uncover perception gaps, fostering a better overall ride experience.
